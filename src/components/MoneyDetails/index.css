@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.li-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  padding: 4px;
+}
+.image {
+  height: 80px;
+  width: 80px;
+  margin-right: 8px;
+}
+.amount-status-heading {
+  font-size: 12px;
+}
+.amount {
+  font-size: 18px;
+}
